@@ -2,10 +2,11 @@
 using namespace std;
 
 // Pattern:
-// A
-// A B
-// A B C
+// A B C D E
 // A B C D
+// A B C
+// A B
+// A
 
 void pattern15(int n) {
  for(int i=n;i>=0;i--) {
